@@ -1,0 +1,684 @@
+{
+  "DOMDocument": {
+    "Shape": [
+      {
+        "charid": "7",
+        "path": [
+          {
+            "color": "#57c2e7",
+            "colorOpacity": "1",
+            "d": "M 42.4 -42.4q-17.6 -17.6 -42.4 -17.6q-24.9 0 -42.45 17.6q-17.55 17.55 -17.55 42.4q0 24.9 17.55 42.4q17.55 17.6 42.45 17.6q24.8 0 42.4 -17.6q17.6 -17.5 17.6 -42.4q0 -24.85 -17.6 -42.4M 0 -58q24.05 0 41 17q17 16.95 17 41q0 24 -17 41q-16.95 17 -41 17q-24 0 -41 -17q-17 -17 -17 -41q0 -24.05 17 -41q17 -17 41 -17",
+            "pathType": "Fill",
+            "stroke": "none"
+          },
+          {
+            "color": "#ffffff",
+            "colorOpacity": "1",
+            "d": "M 41 -41q-16.95 -17 -41 -17q-24 0 -41 17q-17 16.95 -17 41q0 24 17 41q17 17 41 17q24.05 0 41 -17q17 -17 17 -41q0 -24.05 -17 -41",
+            "pathType": "Fill",
+            "stroke": "none"
+          }
+        ]
+      },
+      {
+        "charid": "1",
+        "path": [
+          {
+            "color": "#999999",
+            "colorOpacity": "1",
+            "d": "M -25 -25l0 50l50 0l0 -50l-50 0",
+            "pathType": "Fill",
+            "stroke": "none"
+          }
+        ]
+      },
+      {
+        "charid": "5",
+        "path": [
+          {
+            "color": "#040101",
+            "colorOpacity": "1",
+            "d": "M 46.55 23.3q0.1 -1.2 0.1 -4.6q0 -9.1 -4.55 -13.15q-3.1 -2.8 -6.55 -3.45q-1.85 -0.35 -4.5 0q-4.3 0.6 -7.85 2.95l-1.3 0.85l-0.1 -0.1q-2.2 -2.5 -2.2 -5.8",
+            "strokeWidth": "1.5",
+            "fill": "none",
+            "strokeLinecap": "butt",
+            "strokeLinejoin": "miter",
+            "stroke-miterlimit": "10",
+            "pathType": "Stroke"
+          },
+          {
+            "color": "#040101",
+            "colorOpacity": "1",
+            "d": "M 11.55 0q0 3.6 1.3 7.05q1.35 3.4 3.9 6.15q2.45 2.6 5.5 2.85q0.15 0.4 0.15 1.45l0 10.6l-0.45 0.05q-0.75 0 -1.55 -0.35q-0.45 -0.25 -1.55 -0.95q-1.7 -1.1 -2.8 -1.55q-1.95 -0.8 -4.25 -0.8q-4.6 0 -7.7 3.15q-3.35 3.6 -3.35 9.7l0 4.4",
+            "strokeWidth": "1.5",
+            "fill": "none",
+            "strokeLinecap": "butt",
+            "strokeLinejoin": "miter",
+            "stroke-miterlimit": "10",
+            "pathType": "Stroke"
+          },
+          {
+            "color": "#040101",
+            "colorOpacity": "1",
+            "d": "M 23.1 43.05q-3.2 -0.75 -6 -2.3q-2.5 -1.4 -3.9 -2.95q-1.4 -1.55 -2.05 -2q-0.9 -0.7 -1.9 -0.7l-0.1 0.05q-0.35 0.7 -0.35 1.85l0 4.75",
+            "strokeWidth": "1.5",
+            "fill": "none",
+            "strokeLinecap": "butt",
+            "strokeLinejoin": "miter",
+            "stroke-miterlimit": "10",
+            "pathType": "Stroke"
+          }
+        ]
+      },
+      {
+        "charid": "3",
+        "path": [
+          {
+            "color": "#57c2e7",
+            "colorOpacity": "1",
+            "d": "M 58.3 40.25l-16.3 0q-1.15 0 -2 0.8q-0.8 0.8 -0.8 1.95q0 1.15 0.8 2q0.85 0.8 2 0.8l12.7 0q0.5 0 0.85 0.35q0.35 0.35 0.35 0.85q0 0.5 -0.35 0.85q-0.35 0.35 -0.85 0.35l-12.7 0q-1.15 0 -2 0.8q-0.8 0.8 -0.8 1.95q0 1.15 0.8 2q0.85 0.8 2 0.8l9.35 0q-0.8 1.15 -0.95 2.35l-12.85 0q-0.25 -1.85 -1.6 -3.15q1.7 -1.7 1.7 -4q0 -2.25 -1.7 -3.95q1.7 -1.7 1.7 -3.95q0 -2.3 -1.7 -4l0.1 -0.05q1.65 1.65 3.95 1.65q2.35 0 4 -1.65q1.55 1.65 3.95 1.65q2.4 0 3.95 -1.65l0.3 0q1.65 1.65 3.95 1.65q2.35 0 4 -1.65",
+            "strokeWidth": "1.5",
+            "fill": "none",
+            "strokeLinecap": "butt",
+            "strokeLinejoin": "miter",
+            "stroke-miterlimit": "10",
+            "pathType": "Stroke"
+          },
+          {
+            "color": "#57c2e7",
+            "colorOpacity": "1",
+            "d": "M 51.1 72l0 -4q2.05 -0.3 3.4 -1.85q1.4 -1.6 1.4 -3.7q2.3 0 3.95 -1.65q1.65 1.65 3.95 1.65q2.3 0 3.9 -1.6q1.65 -1.65 1.65 -3.95q0 -2.3 -1.65 -3.95q1.65 -1.65 1.65 -4q0 -2.3 -1.65 -3.95q1.65 -1.65 1.65 -3.95q0 -2.35 -1.65 -4q1.65 -1.65 1.65 -3.95q0 -2.3 -1.65 -3.95q-1.6 -1.6 -3.9 -1.6q-2.3 0 -3.95 1.65q-1.65 -1.65 -3.95 -1.65q-2.35 0 -4 1.65q-1.55 -1.65 -3.95 -1.65q-2.4 0 -3.95 1.65q-1.65 -1.65 -4 -1.65q-2.3 0 -3.95 1.65q-1.65 -1.65 -3.95 -1.65q-2.3 0 -3.95 1.6q-1.6 1.65 -1.6 3.95q0 2.3 1.65 3.95q-1.65 1.65 -1.65 4q0 2.3 1.65 3.95q-1.65 1.65 -1.65 3.95q0 2.35 1.65 4q-1.65 1.65 -1.65 3.95q0 2.35 1.6 3.95q1.65 1.6 3.95 1.6q2.05 0 3.65 -1.35q1.55 -1.35 1.8 -3.4",
+            "strokeWidth": "1.5",
+            "fill": "none",
+            "strokeLinecap": "butt",
+            "strokeLinejoin": "miter",
+            "stroke-miterlimit": "10",
+            "pathType": "Stroke"
+          },
+          {
+            "color": "#57c2e7",
+            "colorOpacity": "1",
+            "d": "M 46.35 72l0 -9.55q0 -1.6 1.2 -2.8q1.15 -1.15 2.8 -1.15l0.7 0.05q0.5 0.1 0.7 -0.2q0.35 -0.3 0.25 -0.7l-0.1 -0.75q0 -1.65 1.2 -2.8q1.15 -1.15 2.8 -1.15q2.1 0 3.3 1.75q0.25 0.4 0.65 0.4q0.4 0 0.65 -0.4q0.45 -0.65 1.1 -1.1q0.4 -0.25 0.4 -0.65q0 -0.4 -0.4 -0.65q-1.75 -1.2 -1.75 -3.35q0 -2.1 1.75 -3.3q0.4 -0.25 0.4 -0.65q0 -0.4 -0.4 -0.65q-1.75 -1.2 -1.75 -3.3q0 -2.15 1.75 -3.35q0.4 -0.25 0.4 -0.65q0 -0.4 -0.4 -0.65q-0.75 -0.55 -1.1 -1.1",
+            "strokeWidth": "1.5",
+            "fill": "none",
+            "strokeLinecap": "butt",
+            "strokeLinejoin": "miter",
+            "stroke-miterlimit": "10",
+            "pathType": "Stroke"
+          }
+        ]
+      }
+    ],
+    "Bitmaps": [],
+    "Sounds": [],
+    "Text": [],
+    "Timeline": [
+      {
+        "charid": "8",
+        "frameCount": "1",
+        "name": "\u00E3\u0082\u00B7\u00E3\u0083\u00B3\u00E3\u0083\u009C\u00E3\u0083\u00AB 2",
+        "Frame": [
+          {
+            "num": "0",
+            "Command": [
+              {
+                "cmdType": "Place",
+                "charid": "7",
+                "objectId": "1",
+                "placeAfter": "0",
+                "transformMatrix": "1,0,0,1,0,0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "charid": "2",
+        "frameCount": "1",
+        "name": "_dot",
+        "Frame": [
+          {
+            "num": "0",
+            "Command": [
+              {
+                "cmdType": "Place",
+                "charid": "1",
+                "objectId": "1",
+                "placeAfter": "0",
+                "transformMatrix": "1,0,0,1,0,0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "charid": "6",
+        "frameCount": "1",
+        "name": "\u00E3\u0082\u00B7\u00E3\u0083\u00B3\u00E3\u0083\u009C\u00E3\u0083\u00AB 1",
+        "Frame": [
+          {
+            "num": "0",
+            "Command": [
+              {
+                "cmdType": "Place",
+                "charid": "5",
+                "objectId": "1",
+                "placeAfter": "0",
+                "transformMatrix": "1,0,0,1,-1.55,-2.5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "charid": "4",
+        "frameCount": "1",
+        "name": "\u00E3\u0082\u00B7\u00E3\u0083\u00B3\u00E3\u0083\u009C\u00E3\u0083\u00AB 3",
+        "Frame": [
+          {
+            "num": "0",
+            "Command": [
+              {
+                "cmdType": "Place",
+                "charid": "3",
+                "objectId": "1",
+                "placeAfter": "0",
+                "transformMatrix": "1,0,0,1,-47.95,-49.75"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "frameCount": "60",
+        "Frame": [
+          {
+            "num": "15",
+            "Command": [
+              {
+                "cmdType": "Place",
+                "charid": "8",
+                "objectId": "1",
+                "placeAfter": "0",
+                "transformMatrix": "0.238,0,0,0.238,60.35,60.7"
+              },
+              {
+                "cmdType": "UpdateColorTransform",
+                "objectId": "1",
+                "colorMatrix": "1,0,1,0,1,0,1,0,"
+              },
+              {
+                "cmdType": "UpdateVisibility",
+                "objectId": "1",
+                "visibility": "true"
+              },
+              {
+                "cmdType": "UpdateBlendMode",
+                "objectId": "1",
+                "blendMode": "Normal"
+              }
+            ]
+          },
+          {
+            "num": "16",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "0.509,0,0,0.509,60.271,60.469"
+              }
+            ]
+          },
+          {
+            "num": "17",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "0.652,0,0,0.652,60.143,60.302"
+              }
+            ]
+          },
+          {
+            "num": "18",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "0.749,0,0,0.749,60.135,60.287"
+              }
+            ]
+          },
+          {
+            "num": "19",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "0.82,0,0,0.82,60.124,60.18"
+              }
+            ]
+          },
+          {
+            "num": "20",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "0.873,0,0,0.873,60.06,60.144"
+              }
+            ]
+          },
+          {
+            "num": "21",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "0.913,0,0,0.913,60.043,60.136"
+              }
+            ]
+          },
+          {
+            "num": "22",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "0.944,0,0,0.944,60.061,60.098"
+              }
+            ]
+          },
+          {
+            "num": "23",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "0.966,0,0,0.966,60.004,60.075"
+              }
+            ]
+          },
+          {
+            "num": "24",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "0.982,0,0,0.982,60.028,60.023"
+              }
+            ]
+          },
+          {
+            "num": "25",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "0.993,0,0,0.993,60.005,60.014"
+              }
+            ]
+          },
+          {
+            "num": "26",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "0.998,0,0,0.998,59.99,60.008"
+              }
+            ]
+          },
+          {
+            "num": "27",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "1",
+                "transformMatrix": "1,0,0,1,60,60"
+              }
+            ]
+          },
+          {
+            "num": "28",
+            "Command": [
+              {
+                "cmdType": "Place",
+                "charid": "2",
+                "objectId": "2",
+                "placeAfter": "0",
+                "transformMatrix": "1,0,0,1,51,0.05"
+              },
+              {
+                "cmdType": "UpdateColorTransform",
+                "objectId": "2",
+                "colorMatrix": "1,0,1,0,1,0,1,0,"
+              },
+              {
+                "cmdType": "UpdateVisibility",
+                "objectId": "2",
+                "visibility": "true"
+              },
+              {
+                "cmdType": "UpdateBlendMode",
+                "objectId": "2",
+                "blendMode": "Normal"
+              },
+              {
+                "cmdType": "Place",
+                "charid": "6",
+                "objectId": "3",
+                "placeAfter": "2",
+                "transformMatrix": "1,0,0,1,27.85,27.95"
+              },
+              {
+                "cmdType": "UpdateColorTransform",
+                "objectId": "3",
+                "colorMatrix": "1,0,1,0,1,0,1,0,"
+              },
+              {
+                "cmdType": "UpdateVisibility",
+                "objectId": "3",
+                "visibility": "true"
+              },
+              {
+                "cmdType": "UpdateBlendMode",
+                "objectId": "3",
+                "blendMode": "Normal"
+              },
+              {
+                "cmdType": "UpdateMask",
+                "objectId": "2",
+                "maskTill": "3"
+              }
+            ]
+          },
+          {
+            "num": "29",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "2",
+                "transformMatrix": "1,0,0,1,51,8.05"
+              }
+            ]
+          },
+          {
+            "num": "30",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "2",
+                "transformMatrix": "1,0,0,1,51,15.25"
+              }
+            ]
+          },
+          {
+            "num": "31",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "2",
+                "transformMatrix": "1,0,0,1,51,21.7"
+              }
+            ]
+          },
+          {
+            "num": "32",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "2",
+                "transformMatrix": "1,0,0,1,51,27.4"
+              }
+            ]
+          },
+          {
+            "num": "33",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "2",
+                "transformMatrix": "1,0,0,1,51,32.35"
+              }
+            ]
+          },
+          {
+            "num": "34",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "2",
+                "transformMatrix": "1,0,0,1,51,36.55"
+              }
+            ]
+          },
+          {
+            "num": "35",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "2",
+                "transformMatrix": "1,0,0,1,51,39.95"
+              }
+            ]
+          },
+          {
+            "num": "36",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "2",
+                "transformMatrix": "1,0,0,1,51,42.65"
+              }
+            ]
+          },
+          {
+            "num": "37",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "2",
+                "transformMatrix": "1,0,0,1,51,44.55"
+              }
+            ]
+          },
+          {
+            "num": "38",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "2",
+                "transformMatrix": "1,0,0,1,51,45.65"
+              }
+            ]
+          },
+          {
+            "num": "39",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "2",
+                "transformMatrix": "1,0,0,1,51,46.05"
+              }
+            ]
+          },
+          {
+            "num": "41",
+            "Command": [
+              {
+                "cmdType": "Place",
+                "charid": "2",
+                "objectId": "4",
+                "placeAfter": "0",
+                "transformMatrix": "1,0,0,1,77,26.05"
+              },
+              {
+                "cmdType": "UpdateColorTransform",
+                "objectId": "4",
+                "colorMatrix": "1,0,1,0,1,0,1,0,"
+              },
+              {
+                "cmdType": "UpdateVisibility",
+                "objectId": "4",
+                "visibility": "true"
+              },
+              {
+                "cmdType": "UpdateBlendMode",
+                "objectId": "4",
+                "blendMode": "Normal"
+              },
+              {
+                "cmdType": "Place",
+                "charid": "4",
+                "objectId": "5",
+                "placeAfter": "4",
+                "transformMatrix": "1,0,0,1,75.4,76.25"
+              },
+              {
+                "cmdType": "UpdateColorTransform",
+                "objectId": "5",
+                "colorMatrix": "1,0,1,0,1,0,1,0,"
+              },
+              {
+                "cmdType": "UpdateVisibility",
+                "objectId": "5",
+                "visibility": "true"
+              },
+              {
+                "cmdType": "UpdateBlendMode",
+                "objectId": "5",
+                "blendMode": "Normal"
+              },
+              {
+                "cmdType": "UpdateMask",
+                "objectId": "4",
+                "maskTill": "5"
+              }
+            ]
+          },
+          {
+            "num": "42",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "4",
+                "transformMatrix": "1,0,0,1,77,34.55"
+              }
+            ]
+          },
+          {
+            "num": "43",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "4",
+                "transformMatrix": "1,0,0,1,77,42.25"
+              }
+            ]
+          },
+          {
+            "num": "44",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "4",
+                "transformMatrix": "1,0,0,1,77,49.15"
+              }
+            ]
+          },
+          {
+            "num": "45",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "4",
+                "transformMatrix": "1,0,0,1,77,55.2"
+              }
+            ]
+          },
+          {
+            "num": "46",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "4",
+                "transformMatrix": "1,0,0,1,77,60.45"
+              }
+            ]
+          },
+          {
+            "num": "47",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "4",
+                "transformMatrix": "1,0,0,1,77,64.95"
+              }
+            ]
+          },
+          {
+            "num": "48",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "4",
+                "transformMatrix": "1,0,0,1,77,68.55"
+              }
+            ]
+          },
+          {
+            "num": "49",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "4",
+                "transformMatrix": "1,0,0,1,77,71.4"
+              }
+            ]
+          },
+          {
+            "num": "50",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "4",
+                "transformMatrix": "1,0,0,1,77,73.45"
+              }
+            ]
+          },
+          {
+            "num": "51",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "4",
+                "transformMatrix": "1,0,0,1,77,74.65"
+              }
+            ]
+          },
+          {
+            "num": "52",
+            "Command": [
+              {
+                "cmdType": "Move",
+                "objectId": "4",
+                "transformMatrix": "1,0,0,1,77,75.05"
+              }
+            ]
+          },
+          {
+            "num": "59",
+            "Command": [
+              {
+                "cmdType": "AddFrameScript",
+                "scriptId": "0",
+                "script": "this.stop()"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

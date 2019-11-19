@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)https://hemmi-ge.com/images/svg/diagnosis_gastro.html -->
+<html><head style="color: transparent;"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+body{
+  overflow: hidden;
+
+  background: transparent;
+}
+body ,h1, h2, h3, h4, h5, h6, p, ol, ul, li, blockquote, pre, a,div {
+font-family:"メイリオ", Meiryo,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","ＭＳ Ｐゴシック","MS PGothic",Sans-Serif;
+margin: 0;
+padding: 0;
+font-size:100%;
+line-height: inherit;
+box-sizing: border-box;
+}
+svg{
+width: 100%;
+height: 100%;
+}
+</style>
+</head>
+
+<body>
+<script src="./diagnosis_gastro_files/snap.svg-min.js"></script>
+<script src="./diagnosis_gastro_files/SnapSVGAnimator.min.js"></script>
+<script type="text/javascript">
+var jsonfile = "./diagnosis_gastro_files/diagnosis_gastro.json",
+    fps = 25,
+    width = 120,
+    height = 120,
+    AJAX_req;
+
+AJAX_JSON_Req(jsonfile);
+
+function handle_AJAX_Complete() {
+  if( AJAX_req.readyState == 4 && AJAX_req.status == 200 ){
+    json = JSON.parse(AJAX_req.responseText);
+    comp = new SVGAnim(json,width,height,fps);
+    // comp.mc.loops = false;
+  }
+}
+function AJAX_JSON_Req( url ){
+  AJAX_req = new XMLHttpRequest();
+  AJAX_req.open("GET", url, true);
+  AJAX_req.setRequestHeader("Content-type", "application/json");
+
+  AJAX_req.onreadystatechange = handle_AJAX_Complete;
+  AJAX_req.send();
+}
+
+    </script>
+
+</body></html>
